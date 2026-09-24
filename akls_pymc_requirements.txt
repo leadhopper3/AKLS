@@ -1,0 +1,10 @@
+pymc>=5.10
+arviz>=0.16
+pytensor>=2.18
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+japanize-matplotlib>=1.1
+openpyxl>=3.1
+netcdf4>=1.6

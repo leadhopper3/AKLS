@@ -1,0 +1,8 @@
+experiment,condition,source_file,n_points,first_h,last_h,shear_rate,lmh_level,max_tmp_kPa,min_transmission_pct,last_filtrate_ab_g_L
+01_Perfusion-shear_rate_500_LMH_1,500 shear / LMH 1,01_Perfusion-shear_rate_500_LMH_1.xlsx,30,0.0,425.0,500.0,1.0,74.6,81.61453827951303,0.4111530024
+04_Perfusion-shear_rate_900_LMH_1,900 shear / LMH 1,04_Perfusion-shear_rate_900_LMH_1.xlsx,31,0.0,377.0,900.0,1.0,5.6,94.2180464863045,0.42385782180000003
+05_Perfusion-shear_rate_1350_LMH_1,1350 shear / LMH 1,05_Perfusion-shear_rate_1350_LMH_1.xlsx,31,0.0,377.0,1350.0,1.0,64.8,84.10116733118124,0.3765107462
+02_Perfusion-shear_rate_2000_LMH_1,2000 shear / LMH 1,02_Perfusion-shear_rate_2000_LMH_1.xlsx,23,0.0,378.0,2000.0,1.0,89.1,78.31295655284956,0.3730048069
+03_Perfusion-shear_rate_4000_LMH_1,4000 shear / LMH 1,03_Perfusion-shear_rate_4000_LMH_1.xlsx,25,0.0,377.5,4000.0,1.0,91.2,76.73917830172809,0.375500736
+07_Perfusion-sheer_rate_2000_LMH_10,2000 shear / LMH 10,07_Perfusion-sheer_rate_2000_LMH_10.xlsx,21,0.0,354.0,2000.0,10.0,100.1,17.00937978494454,0.0817305728
+08_Perfusion-shear_rate_4000_LMH_10,4000 shear / LMH 10,08_Perfusion-shear_rate_4000_LMH_10.xlsx,25,0.0,378.0,4000.0,10.0,96.2,18.406140314781943,0.09945029000000001
